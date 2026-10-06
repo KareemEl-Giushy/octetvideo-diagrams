@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="wzbPIyMR_8-V0wLgy_QT">
-    <mxGraphModel dx="2994" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5118" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YdAlq8sjZMBrCOFcjzJC-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="User Board" vertex="1">
-          <mxGeometry height="60" width="120" x="290" y="90" as="geometry" />
+          <mxGeometry height="60" width="120" x="270" y="90" as="geometry" />
         </mxCell>
         <mxCell id="3XEuYg5Uxn-ooD76Zf7m-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Admin Board" vertex="1">
           <mxGeometry height="60" width="120" x="1100" y="80" as="geometry" />
@@ -14,16 +14,16 @@
           <mxGeometry height="30" width="180" y="10" as="geometry" />
         </mxCell>
         <mxCell id="3XEuYg5Uxn-ooD76Zf7m-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Create A Library" vertex="1">
-          <mxGeometry height="60" width="120" x="280" y="180" as="geometry" />
+          <mxGeometry height="60" width="120" x="270" y="180" as="geometry" />
         </mxCell>
         <mxCell id="3XEuYg5Uxn-ooD76Zf7m-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Watermarking" vertex="1">
           <mxGeometry height="60" width="120" x="-520" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="URL Restriction" vertex="1">
-          <mxGeometry height="60" width="120" x="230" y="870" as="geometry" />
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Security" vertex="1">
+          <mxGeometry height="60" width="120" x="-1070" y="360" as="geometry" />
         </mxCell>
         <mxCell id="3XEuYg5Uxn-ooD76Zf7m-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Transcribe Video" vertex="1">
-          <mxGeometry height="60" width="120" x="-800" y="360" as="geometry" />
+          <mxGeometry height="60" width="120" x="-760" y="360" as="geometry" />
         </mxCell>
         <mxCell id="3XEuYg5Uxn-ooD76Zf7m-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="manage library" vertex="1">
           <mxGeometry height="60" width="120" x="130" y="370" as="geometry" />
@@ -32,22 +32,22 @@
           <mxGeometry height="60" width="120" x="410" y="370" as="geometry" />
         </mxCell>
         <mxCell id="3XEuYg5Uxn-ooD76Zf7m-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bandwidth used" vertex="1">
-          <mxGeometry height="60" width="120" x="700" y="330" as="geometry" />
+          <mxGeometry height="60" width="120" x="660" y="130" as="geometry" />
         </mxCell>
         <mxCell id="3XEuYg5Uxn-ooD76Zf7m-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Requests served" vertex="1">
-          <mxGeometry height="60" width="120" x="580" y="150" as="geometry" />
+          <mxGeometry height="60" width="120" x="520" y="80" as="geometry" />
         </mxCell>
         <mxCell id="3XEuYg5Uxn-ooD76Zf7m-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cache hit rate" vertex="1">
-          <mxGeometry height="60" width="120" x="710" y="270" as="geometry" />
+          <mxGeometry height="60" width="120" x="810" y="80" as="geometry" />
         </mxCell>
         <mxCell id="3XEuYg5Uxn-ooD76Zf7m-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Month Usage Estimate" vertex="1">
-          <mxGeometry height="60" width="120" x="700" y="120" as="geometry" />
+          <mxGeometry height="60" width="120" x="670" y="20" as="geometry" />
         </mxCell>
         <mxCell id="3XEuYg5Uxn-ooD76Zf7m-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="library search" vertex="1">
           <mxGeometry height="60" width="120" x="270" y="260" as="geometry" />
         </mxCell>
         <mxCell id="3XEuYg5Uxn-ooD76Zf7m-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pricing Overview" vertex="1">
-          <mxGeometry height="60" width="120" x="150" y="180" as="geometry" />
+          <mxGeometry height="60" width="120" x="100" y="180" as="geometry" />
         </mxCell>
         <mxCell id="3XEuYg5Uxn-ooD76Zf7m-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Collections of videos" vertex="1">
           <mxGeometry height="60" width="120" x="140" y="500" as="geometry" />
@@ -77,7 +77,49 @@
           <mxGeometry height="60" width="120" x="-370" y="470" as="geometry" />
         </mxCell>
         <mxCell id="3XEuYg5Uxn-ooD76Zf7m-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Search into the video to get the section you need. (All Videos)" vertex="1">
-          <mxGeometry height="60" width="120" x="-800" y="450" as="geometry" />
+          <mxGeometry height="60" width="120" x="-760" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="White listed domains" vertex="1">
+          <mxGeometry height="60" width="120" x="-1000" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Security Type&lt;div&gt;(Clearkey), (DRM-Protection)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-240" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Embed Video&amp;nbsp;&lt;br&gt;Token Authentication" vertex="1">
+          <mxGeometry height="60" width="120" x="-1200" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="private key used to create the token hash to authenticate" vertex="1">
+          <mxGeometry height="60" width="120" x="-1210" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Statstics" vertex="1">
+          <mxGeometry height="60" width="120" x="-1540" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="View History" vertex="1">
+          <mxGeometry height="60" width="120" x="-1850" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Watch time" vertex="1">
+          <mxGeometry height="60" width="120" x="-1690" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="View Per Country" vertex="1">
+          <mxGeometry height="60" width="120" x="-1520" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bandwidth break down" vertex="1">
+          <mxGeometry height="60" width="120" x="-2000" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Request Break Down" vertex="1">
+          <mxGeometry height="60" width="120" x="-2160" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Usage This month" vertex="1">
+          <mxGeometry height="60" width="120" x="-1940" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Logs" vertex="1">
+          <mxGeometry height="60" width="120" x="780" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Balance" vertex="1">
+          <mxGeometry height="60" width="120" x="1030" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-46" edge="1" parent="1" source="YdAlq8sjZMBrCOFcjzJC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="YdAlq8sjZMBrCOFcjzJC-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
