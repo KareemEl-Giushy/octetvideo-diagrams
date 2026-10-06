@@ -1,11 +1,83 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="wzbPIyMR_8-V0wLgy_QT">
-    <mxGraphModel dx="1333" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2994" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YdAlq8sjZMBrCOFcjzJC-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="310" y="170" as="geometry" />
+        <mxCell id="YdAlq8sjZMBrCOFcjzJC-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="User Board" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Admin Board" vertex="1">
+          <mxGeometry height="60" width="120" x="1100" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;OctetVideo PaaS&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="180" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Create A Library" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Watermarking" vertex="1">
+          <mxGeometry height="60" width="120" x="-520" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="URL Restriction" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Transcribe Video" vertex="1">
+          <mxGeometry height="60" width="120" x="-800" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="manage library" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="manage palyer" vertex="1">
+          <mxGeometry height="60" width="120" x="410" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bandwidth used" vertex="1">
+          <mxGeometry height="60" width="120" x="700" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Requests served" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="cache hit rate" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Month Usage Estimate" vertex="1">
+          <mxGeometry height="60" width="120" x="700" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="library search" vertex="1">
+          <mxGeometry height="60" width="120" x="270" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pricing Overview" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Collections of videos" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Change the player Shape" vertex="1">
+          <mxGeometry height="60" width="120" x="670" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Playback speed" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Player Controls" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Add Custom CSS" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Encoding" vertex="1">
+          <mxGeometry height="60" width="120" x="-220" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="H.264" vertex="1">
+          <mxGeometry height="60" width="120" x="-220" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="H.265" vertex="1">
+          <mxGeometry height="60" width="120" x="-60" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Resolutions" vertex="1">
+          <mxGeometry height="60" width="120" x="-370" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="3XEuYg5Uxn-ooD76Zf7m-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Search into the video to get the section you need. (All Videos)" vertex="1">
+          <mxGeometry height="60" width="120" x="-800" y="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
