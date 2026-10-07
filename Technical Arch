@@ -83,6 +83,11 @@
             <mxPoint x="57" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-174" connectable="0" parent="9Ts1lAQR9lnacKiFc7Vs-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="GET" vertex="1">
+          <mxGeometry relative="1" x="0.003" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Client Browser" vertex="1">
           <mxGeometry height="140" width="70" x="47" y="320" as="geometry" />
         </mxCell>
@@ -95,7 +100,7 @@
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-47" edge="1" parent="9Ts1lAQR9lnacKiFc7Vs-45" source="9Ts1lAQR9lnacKiFc7Vs-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-48" parent="9Ts1lAQR9lnacKiFc7Vs-45" style="rounded=0;whiteSpace=wrap;html=1;" value="Playback AuthZ/AuthN" vertex="1">
+        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-48" parent="9Ts1lAQR9lnacKiFc7Vs-45" style="rounded=0;whiteSpace=wrap;html=1;" value="Playback AuthZ/AuthN (OTP)" vertex="1">
           <mxGeometry height="60" width="270" x="10" y="148" as="geometry" />
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-49" edge="1" parent="9Ts1lAQR9lnacKiFc7Vs-45" source="9Ts1lAQR9lnacKiFc7Vs-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" target="9Ts1lAQR9lnacKiFc7Vs-48">
