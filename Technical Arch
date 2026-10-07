@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Multi-DRM Provider" vertex="1">
-          <mxGeometry height="60" width="120" x="2310" y="1490" as="geometry" />
+          <mxGeometry height="60" width="120" x="1270" y="1720" as="geometry" />
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-55" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9Ts1lAQR9lnacKiFc7Vs-48">
           <mxGeometry relative="1" as="geometry" />
@@ -343,7 +343,7 @@
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-149" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-145" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.033;entryY=0.882;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;dashed=1;endArrow=block;endFill=0;" target="9Ts1lAQR9lnacKiFc7Vs-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-168" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="9Ts1lAQR9lnacKiFc7Vs-1">
+        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-168" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="9Ts1lAQR9lnacKiFc7Vs-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-145" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Video Encryption (AES)" vertex="1">
