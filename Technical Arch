@@ -7,7 +7,7 @@
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Multi-DRM Provider" vertex="1">
           <mxGeometry height="60" width="120" x="1270" y="1720" as="geometry" />
         </mxCell>
-        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-55" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9Ts1lAQR9lnacKiFc7Vs-48">
+        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-55" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" target="9Ts1lAQR9lnacKiFc7Vs-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Player Endpoint" vertex="1">
@@ -71,20 +71,20 @@
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="User Backend Server" vertex="1">
           <mxGeometry height="60" width="120" x="272" y="390" as="geometry" />
         </mxCell>
-        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-42" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.147;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="9Ts1lAQR9lnacKiFc7Vs-3">
-          <mxGeometry relative="1" x="-0.4544" as="geometry">
+        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-42" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.147;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" target="9Ts1lAQR9lnacKiFc7Vs-3">
+          <mxGeometry relative="1" x="-0.4541" as="geometry">
             <Array as="points" />
             <mxPoint x="-320" y="347.5000000000001" as="sourcePoint" />
             <mxPoint x="170" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-44" connectable="0" parent="9Ts1lAQR9lnacKiFc7Vs-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Load Player" vertex="1">
-          <mxGeometry relative="1" x="-0.5191" as="geometry">
+          <mxGeometry relative="1" x="-0.5203" as="geometry">
             <mxPoint x="57" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-174" connectable="0" parent="9Ts1lAQR9lnacKiFc7Vs-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="GET" vertex="1">
-          <mxGeometry relative="1" x="0.003" y="1" as="geometry">
+          <mxGeometry relative="1" x="0.005" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
