@@ -178,6 +178,12 @@
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-25" parent="9Ts1lAQR9lnacKiFc7Vs-68" style="rounded=0;whiteSpace=wrap;html=1;" value="Logs" vertex="1">
           <mxGeometry height="60" width="120" x="15" y="554" as="geometry" />
         </mxCell>
+        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-69" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="1179" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-70" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Postgres" vertex="1">
+          <mxGeometry height="80" width="60" x="1840" y="730" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
