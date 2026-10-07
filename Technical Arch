@@ -151,9 +151,6 @@
             <mxPoint x="570.08" y="1435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="920" y="560" as="geometry" />
-        </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-68" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="630" width="150" x="745" y="776" as="geometry" />
         </mxCell>
