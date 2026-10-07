@@ -31,7 +31,7 @@
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-78" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="9Ts1lAQR9lnacKiFc7Vs-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dashbaord" vertex="1">
+        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Dashbaord / Statistics" vertex="1">
           <mxGeometry height="60" width="120" x="600" y="630" as="geometry" />
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-89" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="9Ts1lAQR9lnacKiFc7Vs-92">
@@ -103,31 +103,17 @@
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-48" parent="9Ts1lAQR9lnacKiFc7Vs-45" style="rounded=0;whiteSpace=wrap;html=1;" value="Playback AuthZ/AuthN (OTP)" vertex="1">
           <mxGeometry height="60" width="270" x="10" y="148" as="geometry" />
         </mxCell>
-        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-49" edge="1" parent="9Ts1lAQR9lnacKiFc7Vs-45" source="9Ts1lAQR9lnacKiFc7Vs-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" target="9Ts1lAQR9lnacKiFc7Vs-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-50" parent="9Ts1lAQR9lnacKiFc7Vs-45" style="rounded=0;whiteSpace=wrap;html=1;" value="Domain Blacklist&lt;div&gt;Country Black List&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="85" y="10" as="geometry" />
-        </mxCell>
-        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-51" edge="1" parent="9Ts1lAQR9lnacKiFc7Vs-45" source="9Ts1lAQR9lnacKiFc7Vs-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="9Ts1lAQR9lnacKiFc7Vs-48">
-          <mxGeometry relative="1" x="0.48" as="geometry">
-            <Array as="points">
-              <mxPoint x="145" y="110" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry height="60" width="120" x="160" y="8" as="geometry" />
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-52" parent="9Ts1lAQR9lnacKiFc7Vs-45" style="rounded=0;whiteSpace=wrap;html=1;" value="OTP/Expiry Validation" vertex="1">
           <mxGeometry height="60" width="120" x="10" y="78" as="geometry" />
         </mxCell>
-        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-53" edge="1" parent="9Ts1lAQR9lnacKiFc7Vs-45" source="9Ts1lAQR9lnacKiFc7Vs-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="9Ts1lAQR9lnacKiFc7Vs-48">
-          <mxGeometry relative="1" x="-0.2" as="geometry">
-            <Array as="points">
-              <mxPoint x="145" y="110" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-54" parent="9Ts1lAQR9lnacKiFc7Vs-45" style="rounded=0;whiteSpace=wrap;html=1;" value="PlaybackInfo Validation" vertex="1">
           <mxGeometry height="60" width="120" x="160" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="-kHk0_aZcITS32JfN8Cx-26" parent="9Ts1lAQR9lnacKiFc7Vs-45" style="rounded=0;whiteSpace=wrap;html=1;" value="Rate Limiting&lt;div&gt;From Clients&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="10" y="8" as="geometry" />
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-57" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="9Ts1lAQR9lnacKiFc7Vs-13">
           <mxGeometry relative="1" as="geometry" />
