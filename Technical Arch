@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="D0lpImUMAGSiPa52kJ6T">
-    <mxGraphModel>
+    <mxGraphModel dx="1094" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Multi-DRM Provider" vertex="1">
+          <mxGeometry height="60" width="120" x="1030" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Player Endpoint" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="User Authentication" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Playback AuthZ/AuthN" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Domain Blacklist&lt;div&gt;Country Black List&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="-10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
