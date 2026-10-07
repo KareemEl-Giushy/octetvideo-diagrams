@@ -1,1 +1,1 @@
-# octetvido-diagrams
+# octetvideo-diagrams
