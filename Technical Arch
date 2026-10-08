@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="D0lpImUMAGSiPa52kJ6T">
-    <mxGraphModel dx="1886" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1094" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,7 +185,7 @@
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-23" parent="9Ts1lAQR9lnacKiFc7Vs-68" style="rounded=0;whiteSpace=wrap;html=1;" value="security" vertex="1">
           <mxGeometry height="210" width="120" x="15" y="1102" as="geometry" />
         </mxCell>
-        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-70" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Postgres" vertex="1">
+        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-70" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Postgres&lt;div&gt;(Platform Video DB)&lt;/div&gt;" vertex="1">
           <mxGeometry height="106.67" width="80" x="2290" y="833.66" as="geometry" />
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-84" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.142;entryDx=0;entryDy=0;entryPerimeter=0;" target="9Ts1lAQR9lnacKiFc7Vs-80">
