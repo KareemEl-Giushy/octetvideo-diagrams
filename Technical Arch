@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="D0lpImUMAGSiPa52kJ6T">
-    <mxGraphModel dx="2735" dy="1698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="526" dy="326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -571,6 +571,9 @@
         </mxCell>
         <mxCell id="AnR2c9_7VMDw6ESuka7q-10" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Redis Job Queue" vertex="1">
           <mxGeometry height="60" width="120" x="1350" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="AnR2c9_7VMDw6ESuka7q-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nginx egress, Ingress Meter" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
