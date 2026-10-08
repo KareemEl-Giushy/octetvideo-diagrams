@@ -600,8 +600,8 @@
         <mxCell id="AnR2c9_7VMDw6ESuka7q-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;ol&gt;&lt;li&gt;Libraries&lt;/li&gt;&lt;li&gt;Collections&lt;/li&gt;&lt;li&gt;Users&lt;/li&gt;&lt;li&gt;Video Key, Location&lt;/li&gt;&lt;/ol&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="2270" y="970" as="geometry" />
         </mxCell>
-        <mxCell id="AnR2c9_7VMDw6ESuka7q-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=40;" value="System Main Components&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Usage Calculation&lt;/li&gt;&lt;li&gt;Video Playback&lt;/li&gt;&lt;li&gt;Video Upload/Transcode&lt;/li&gt;&lt;li&gt;Beacon / Analytics Engine&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="509" width="500" x="2620" y="53" as="geometry" />
+        <mxCell id="AnR2c9_7VMDw6ESuka7q-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=40;" value="System Main Components&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Usage Calculation (Billing Engine)&lt;/li&gt;&lt;li&gt;Video Playback&lt;/li&gt;&lt;li&gt;Video Upload/Transcode&lt;/li&gt;&lt;li&gt;Beacon / Analytics Engine&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="509" width="1060" x="2620" y="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
