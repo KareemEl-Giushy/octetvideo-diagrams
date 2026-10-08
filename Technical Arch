@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="D0lpImUMAGSiPa52kJ6T">
-    <mxGraphModel dx="1586" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1318" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -568,7 +568,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AnR2c9_7VMDw6ESuka7q-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Beacon&lt;div&gt;Player Analytics&lt;/div&gt;" vertex="1">
+        <mxCell id="AnR2c9_7VMDw6ESuka7q-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" value="Beacon&lt;div&gt;Player Analytics&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="600" y="230" as="geometry" />
         </mxCell>
         <mxCell id="AnR2c9_7VMDw6ESuka7q-6" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Postgres&lt;div&gt;(Ledger, Usage, Rollup)&lt;/div&gt;" vertex="1">
