@@ -591,7 +591,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AnR2c9_7VMDw6ESuka7q-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=12 12;" value="Nginx egress, Ingress Meter" vertex="1">
+        <mxCell id="AnR2c9_7VMDw6ESuka7q-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=12 12;fontStyle=5" value="Nginx egress, Ingress Meter" vertex="1">
           <mxGeometry height="60" width="120" x="600" y="150" as="geometry" />
         </mxCell>
         <mxCell id="AnR2c9_7VMDw6ESuka7q-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;ol&gt;&lt;li&gt;Libraries&lt;/li&gt;&lt;li&gt;Collections&lt;/li&gt;&lt;li&gt;Users&lt;/li&gt;&lt;li&gt;Video Key, Location&lt;/li&gt;&lt;/ol&gt;" vertex="1">
