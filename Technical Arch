@@ -568,7 +568,7 @@
         <mxCell id="AnR2c9_7VMDw6ESuka7q-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Beacon&lt;div&gt;Player Analytics&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="600" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="AnR2c9_7VMDw6ESuka7q-6" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Update Technical Arch" vertex="1">
+        <mxCell id="AnR2c9_7VMDw6ESuka7q-6" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Postgres&lt;div&gt;(Ledger, Usage, Rollup)&lt;/div&gt;" vertex="1">
           <mxGeometry height="101.67" width="140" x="2650" y="621.17" as="geometry" />
         </mxCell>
         <mxCell id="AnR2c9_7VMDw6ESuka7q-8" edge="1" parent="1" source="AnR2c9_7VMDw6ESuka7q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" target="AnR2c9_7VMDw6ESuka7q-6">
