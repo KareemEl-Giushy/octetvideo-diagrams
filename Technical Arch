@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="D0lpImUMAGSiPa52kJ6T">
-    <mxGraphModel dx="1094" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -450,8 +450,26 @@
         <mxCell id="-kHk0_aZcITS32JfN8Cx-25" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9Ts1lAQR9lnacKiFc7Vs-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-kHk0_aZcITS32JfN8Cx-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
-          <mxGeometry height="80" width="120" x="1110" y="810" as="geometry" />
+        <mxCell id="-kHk0_aZcITS32JfN8Cx-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Thumbnails" vertex="1">
+          <mxGeometry height="30" width="120" x="1042.5" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="-kHk0_aZcITS32JfN8Cx-35" edge="1" parent="1" source="-kHk0_aZcITS32JfN8Cx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.973;exitY=0;exitDx=0;exitDy=0;" target="9Ts1lAQR9lnacKiFc7Vs-81" value=" ">
+          <mxGeometry relative="1" x="-0.161" as="geometry">
+            <Array as="points">
+              <mxPoint x="1670" y="830" />
+              <mxPoint x="1670" y="830" />
+            </Array>
+            <mxPoint x="2032.5301204819282" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-kHk0_aZcITS32JfN8Cx-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Chapters" vertex="1">
+          <mxGeometry height="30" width="120" x="1042.5" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="-kHk0_aZcITS32JfN8Cx-36" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" value="Thumbnails&lt;div&gt;S3&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="2050" y="709.17" as="geometry" />
+        </mxCell>
+        <mxCell id="-kHk0_aZcITS32JfN8Cx-37" edge="1" parent="1" source="-kHk0_aZcITS32JfN8Cx-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=70;entryDy=60;entryPerimeter=0;" target="-kHk0_aZcITS32JfN8Cx-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
