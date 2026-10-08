@@ -212,8 +212,8 @@
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-79" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="9Ts1lAQR9lnacKiFc7Vs-74">
           <mxGeometry relative="1" x="-0.0089" as="geometry" />
         </mxCell>
-        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-83" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.169;entryY=-0.002;entryDx=0;entryDy=0;endArrow=block;endFill=0;shape=link;exitX=0.973;exitY=0.053;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;" target="9Ts1lAQR9lnacKiFc7Vs-81">
-          <mxGeometry relative="1" x="-0.0139" as="geometry" />
+        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-83" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;shape=link;exitX=0.973;exitY=0.053;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;" target="AnR2c9_7VMDw6ESuka7q-6">
+          <mxGeometry relative="1" x="-0.3659" as="geometry" />
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Beacon&lt;/div&gt;Analytics Engine" vertex="1">
           <mxGeometry height="210" width="120" x="1570" y="552" as="geometry" />
@@ -599,6 +599,9 @@
         </mxCell>
         <mxCell id="AnR2c9_7VMDw6ESuka7q-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;ol&gt;&lt;li&gt;Libraries&lt;/li&gt;&lt;li&gt;Collections&lt;/li&gt;&lt;li&gt;Users&lt;/li&gt;&lt;li&gt;Video Key, Location&lt;/li&gt;&lt;/ol&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="2270" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="AnR2c9_7VMDw6ESuka7q-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;fontSize=40;" value="System Main Components&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Usage Calculation&lt;/li&gt;&lt;li&gt;Video Playback&lt;/li&gt;&lt;li&gt;Video Upload/Transcode&lt;/li&gt;&lt;li&gt;Beacon / Analytics Engine&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="509" width="500" x="2620" y="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
