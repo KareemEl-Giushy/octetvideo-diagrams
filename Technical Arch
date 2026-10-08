@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="D0lpImUMAGSiPa52kJ6T">
-    <mxGraphModel dx="1318" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2735" dy="1698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" x="-0.1077" as="geometry" />
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="User Authentication" vertex="1">
-          <mxGeometry height="835" width="80" x="490" y="722" as="geometry" />
+          <mxGeometry height="1556" width="80" x="490" y="722" as="geometry" />
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Create Account" vertex="1">
           <mxGeometry height="60" width="120" x="600" y="642" as="geometry" />
@@ -43,7 +43,7 @@
           <mxGeometry height="60" width="120" x="600" y="802" as="geometry" />
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Create a New Library" vertex="1">
-          <mxGeometry height="600" width="120" x="598" y="957" as="geometry" />
+          <mxGeometry height="1321" width="120" x="598" y="957" as="geometry" />
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Contact us (Tickets)" vertex="1">
           <mxGeometry height="60" width="120" x="598" y="879" as="geometry" />
@@ -540,6 +540,9 @@
         </mxCell>
         <mxCell id="-kHk0_aZcITS32JfN8Cx-59" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Country Restriction" vertex="1">
           <mxGeometry height="60" width="120" x="950" y="2120" as="geometry" />
+        </mxCell>
+        <mxCell id="-kHk0_aZcITS32JfN8Cx-62" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.015;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" target="9Ts1lAQR9lnacKiFc7Vs-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
