@@ -157,7 +157,7 @@
           <mxGeometry height="1490" width="150" x="745" y="868" as="geometry" />
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-33" parent="9Ts1lAQR9lnacKiFc7Vs-68" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#BFBFBF;" value="" vertex="1">
-          <mxGeometry height="1490" width="150" as="geometry" />
+          <mxGeometry height="1410" width="150" as="geometry" />
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-19" parent="9Ts1lAQR9lnacKiFc7Vs-68" style="rounded=0;whiteSpace=wrap;html=1;" value="Manage Library" vertex="1">
           <mxGeometry height="606" width="120" x="15" y="14" as="geometry" />
@@ -169,7 +169,7 @@
           <mxGeometry height="312" width="120" x="15" y="708" as="geometry" />
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-25" parent="9Ts1lAQR9lnacKiFc7Vs-68" style="rounded=0;whiteSpace=wrap;html=1;" value="Logs" vertex="1">
-          <mxGeometry height="60" width="120" x="15" y="1352" as="geometry" />
+          <mxGeometry height="60" width="120" x="15" y="1332" as="geometry" />
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-22" parent="9Ts1lAQR9lnacKiFc7Vs-68" style="rounded=0;whiteSpace=wrap;html=1;" value="Transcribe" vertex="1">
           <mxGeometry height="60" width="120" x="15" y="1032" as="geometry" />
