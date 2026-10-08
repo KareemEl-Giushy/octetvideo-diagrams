@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="D0lpImUMAGSiPa52kJ6T">
-    <mxGraphModel dx="211" dy="131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,6 +85,14 @@
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-174" connectable="0" parent="9Ts1lAQR9lnacKiFc7Vs-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="GET" vertex="1">
           <mxGeometry relative="1" x="0.005" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnR2c9_7VMDw6ESuka7q-4" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="AnR2c9_7VMDw6ESuka7q-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnR2c9_7VMDw6ESuka7q-5" connectable="0" parent="AnR2c9_7VMDw6ESuka7q-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Once Player Loaded&lt;div&gt;Heart Beat / Status&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0673" y="2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -207,7 +215,7 @@
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-83" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.169;entryY=-0.002;entryDx=0;entryDy=0;endArrow=block;endFill=0;shape=link;exitX=0.973;exitY=0.053;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;" target="9Ts1lAQR9lnacKiFc7Vs-81">
           <mxGeometry relative="1" x="-0.0139" as="geometry" />
         </mxCell>
-        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Analytics Engine" vertex="1">
+        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Beacon&lt;/div&gt;Analytics Engine" vertex="1">
           <mxGeometry height="210" width="120" x="1570" y="552" as="geometry" />
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-82" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" target="9Ts1lAQR9lnacKiFc7Vs-70">
@@ -543,6 +551,9 @@
         </mxCell>
         <mxCell id="-kHk0_aZcITS32JfN8Cx-62" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.015;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;shape=link;" target="9Ts1lAQR9lnacKiFc7Vs-33">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnR2c9_7VMDw6ESuka7q-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Beacon&lt;div&gt;Player Analytics&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
