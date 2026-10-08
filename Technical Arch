@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="D0lpImUMAGSiPa52kJ6T">
-    <mxGraphModel dx="365" dy="226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="632" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,6 +161,9 @@
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-19" parent="9Ts1lAQR9lnacKiFc7Vs-68" style="rounded=0;whiteSpace=wrap;html=1;" value="Manage Library" vertex="1">
           <mxGeometry height="606" width="120" x="15" y="14" as="geometry" />
+        </mxCell>
+        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-20" parent="9Ts1lAQR9lnacKiFc7Vs-68" style="rounded=0;whiteSpace=wrap;html=1;" value="Encoding" vertex="1">
+          <mxGeometry height="60" width="120" x="15" y="634" as="geometry" />
         </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-70" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Postgres" vertex="1">
           <mxGeometry height="106.67" width="80" x="2290" y="741.66" as="geometry" />
@@ -336,9 +339,6 @@
         <mxCell id="-kHk0_aZcITS32JfN8Cx-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Video Details" vertex="1">
           <mxGeometry height="60" width="120" x="922.5" y="800" as="geometry" />
         </mxCell>
-        <mxCell id="9Ts1lAQR9lnacKiFc7Vs-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Encoding" vertex="1">
-          <mxGeometry height="60" width="120" x="760" y="1640" as="geometry" />
-        </mxCell>
         <mxCell id="9Ts1lAQR9lnacKiFc7Vs-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Player" vertex="1">
           <mxGeometry height="60" width="120" x="760" y="1730" as="geometry" />
         </mxCell>
@@ -482,6 +482,14 @@
         </mxCell>
         <mxCell id="-kHk0_aZcITS32JfN8Cx-40" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-kHk0_aZcITS32JfN8Cx-39">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-kHk0_aZcITS32JfN8Cx-42" edge="1" parent="1" source="9Ts1lAQR9lnacKiFc7Vs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=0;shape=link;" target="-kHk0_aZcITS32JfN8Cx-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-kHk0_aZcITS32JfN8Cx-43" connectable="0" parent="-kHk0_aZcITS32JfN8Cx-42" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Library Encoding Settings" vertex="1">
+          <mxGeometry relative="1" x="0.1589" y="1" as="geometry">
+            <mxPoint x="-39" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
